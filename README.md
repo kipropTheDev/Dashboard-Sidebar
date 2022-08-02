@@ -1,6 +1,6 @@
 # Sidebar Menu Design  - Dashboard-Sidebar
 
-
+![Alt text](./screenshots/light_mode_close.PNG "Title")
 
 
 
